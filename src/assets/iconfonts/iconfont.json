@@ -1,0 +1,65 @@
+{
+  "id": "3549462",
+  "name": "侨联",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15838606",
+      "name": "user-filling",
+      "font_class": "admin",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "128673",
+      "name": "eye",
+      "font_class": "eye",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "220123",
+      "name": "date",
+      "font_class": "date",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "745699",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "975105",
+      "name": "user",
+      "font_class": "user",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "1433853",
+      "name": "sun",
+      "font_class": "sun",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "5394476",
+      "name": "address",
+      "font_class": "address",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15838582",
+      "name": "arrow-down-filling",
+      "font_class": "arrow-down",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}

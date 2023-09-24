@@ -1,0 +1,39 @@
+{
+  "name": "big-data",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@arco-plugins/vite-vue": "^1.4.5",
+    "@vue-office/excel": "^1.4.5",
+    "animate.css": "^4.1.1",
+    "axios": "^0.27.2",
+    "dayjs": "^1.11.10",
+    "docx-preview": "^0.1.18",
+    "echarts": "^5.4.3",
+    "echarts-wordcloud": "^2.1.0",
+    "pdfjs-dist": "^3.10.111",
+    "pinia": "^2.1.4",
+    "swiper": "7",
+    "vue": "^3.2.25",
+    "vue-pdf-embed": "^1.1.6",
+    "vue-router": "^4.0.16",
+    "vue3-count-to": "^1.1.2"
+  },
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.33.0",
+    "@types/node": "^17.0.13",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "consola": "^2.15.3",
+    "sass": "^1.52.1",
+    "typescript": "^4.4.4",
+    "unplugin-auto-import": "^0.8.5",
+    "unplugin-vue-components": "^0.19.6",
+    "vite": "^2.9.8",
+    "vite-plugin-style-import": "^2.0.0"
+  }
+}
